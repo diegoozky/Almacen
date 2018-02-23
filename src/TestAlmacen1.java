@@ -45,8 +45,8 @@ public class TestAlmacen1 {
 
 	// Procesa la opción introducida operando sobre el objeto Almacen1
 	/**
-	 * Procesa la opción que hemos seleccionado
-	 * @param opcion selecciona la opción que quieres hacer
+	 * Procesa la opcion que hemos seleccionado
+	 * @param opcion selecciona la opcion que quieres hacer
 	 * @param parAlmacen Hace referencia a nuestro almacen
 	 */
 	static void procesarOpcion(int opcion, Almacen1 parAlmacen) {
